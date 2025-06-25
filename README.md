@@ -1,6 +1,4 @@
-### 🖖
-
-I'm a graduate student at Georgia Tech, helping make the robots smarter 🤖 😄
+🖖 I'm a graduate student at Georgia Tech, helping make the robots smarter 🤖 😄
 
 Specifcally, I working on metacognitive algorithms (autotelic and adaptive ML/AI) for goal inference across diverse forms of cognitive systems. 
 
